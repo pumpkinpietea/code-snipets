@@ -1,9 +1,9 @@
--> % python itertools.py
+-> % python itertools.py 
 a b c
 # result as it is.
 [('a', 'b', 'c'), ('a', 'c', 'b'), ('b', 'a', 'c'), ('b', 'c', 'a'), ('c', 'a', 'b'), ('c', 'b', 'a')]
---------------
+# --------------
 
-result as words
+# result as words
 abc,acb,bac,bca,cab,cba
---------------
+# --------------
